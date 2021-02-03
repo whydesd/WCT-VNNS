@@ -1,5 +1,5 @@
 # WCT-VNNS
-Version Number Naming Standard By EMC Network Inc. & EMC DreamWorks Inc.
+Version Number Naming Standard By EMC Network Inc & EMC DreamWorks Inc.
 
 ------------
 ## Demo
